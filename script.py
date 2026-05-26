@@ -4,7 +4,7 @@ from openai import OpenAI
 
 # 你的AI配置
 client = OpenAI(
-    api_key="sk-ad6dd0d9e4a044b6ae0a01ffc0a80cb7",
+    api_key="",
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 )
 def load_text(file_path):
