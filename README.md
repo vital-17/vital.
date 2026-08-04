@@ -4,7 +4,7 @@
 
 ## 技术栈
 - 编程语言：Python
-- 核心框架：LangChain
+- 核心框架参考：LangChain
 - 深度学习：PyTorch、Transformer架构
 - 向量检索：FAISS
 - 向量化算法：余弦相似度、词嵌入Embedding
